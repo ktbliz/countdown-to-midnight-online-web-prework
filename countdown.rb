@@ -9,7 +9,6 @@ def countdown(seconds)
   return "HAPPY NEW YEAR!"
 end
 
-countdown(12)
 
 
 def countdown_with_sleep(seconds)
@@ -22,4 +21,3 @@ def countdown_with_sleep(seconds)
   return "HAPPY NEW YEAR!"
 end
 
-countdown_with_sleep(10)
